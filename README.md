@@ -16,4 +16,5 @@ Register your topic and see colleagues register for the same! You can collaborat
 We will make open spots for all the topics and make some special arrangements when there are topics like IOT that require certain infrastructure.
 
 **Schedule**
-The full schedule for our DevLabs day is available at ![Planning.md]([https://user-images.githubusercontent.com/3177418/171869419-794d75fc-b68c-4aaa-950b-89af717ed1f3.png](https://github.com/NicoVermeir/DevLabs/blob/main/planning.md))
+
+The full schedule for our DevLabs day is available at ![Planning.md](https://github.com/NicoVermeir/DevLabs/blob/main/planning.md)
