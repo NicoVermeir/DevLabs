@@ -14,3 +14,6 @@ As you can see, there are already some topics for the afternoon. We are excited 
 DevLabs is an afternoon where everyone is free to experiment with a technology of choice. So if you have a certain technology/hobby project/... that you never find time to explore or you're stuck with something and you are looking for colleagues with expertise to help each other out, be sure to register your own topic! This is done by 'create new issue' and adding your name as a comment. This way, you can match up with other colleagues who have the same spark in their eyes with that certain topic!
 Register your topic and see colleagues register for the same! You can collaborate closely or each work at your own pace, the choice is yours!
 We will make open spots for all the topics and make some special arrangements when there are topics like IOT that require certain infrastructure.
+
+**Schedule**
+The full schedule for our DevLabs day is available at ![Planning.md]([https://user-images.githubusercontent.com/3177418/171869419-794d75fc-b68c-4aaa-950b-89af717ed1f3.png](https://github.com/NicoVermeir/DevLabs/blob/main/planning.md))
